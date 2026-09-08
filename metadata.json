@@ -1,0 +1,11 @@
+{
+  "name": "NexusAI - ChatGPT Alternative",
+  "description": "Powerful, responsive, multimodal AI workspace with real-time streaming, web search grounding, reasoning mode, code execution canvas, voice dialogue, custom GPTs, and rich markdown.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
